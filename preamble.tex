@@ -1,0 +1,18 @@
+\usepackage{graphicx}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}  % clear all header/footer
+
+% Define header and footer
+\fancyhead[L]{Republic of Kenya}
+\fancyhead[R]{State Department for Lands and Physical Planning}
+\fancyfoot[C]{\includegraphics[width=\textwidth]{footer.png}}
+
+% Leave space for header and footer
+\setlength{\headheight}{15pt}
+\setlength{\footskip}{60pt}
+
+% Use empty page style for first page
+\fancypagestyle{firstpage}{
+  \fancyhf{}  % no header/footer on first page
+}
