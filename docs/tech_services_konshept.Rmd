@@ -9,6 +9,7 @@ output:
     highlight: github
 fontsize: 11pt
 geometry: margin=1in
+output-dir: "docs"
 ---
 
 ```{r setup, include=FALSE}
