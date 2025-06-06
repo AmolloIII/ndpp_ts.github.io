@@ -34,7 +34,7 @@ State Department for Lands and Physical Planning \\
 
 # 1. Introduction
 
-The Technical Services Division within the Department of Physical Planning has the mandate to provide technical guidance and oversight in the preparation, implementation, and monitoring of spatial plans across the country. Spatial planning remains a critical pillar in the realization of Kenya’s national development objectives, including Vision 2030, the Kenya National Spatial Plan (NSP), and the Bottom-Up Economic Transformation Agenda (BETA).
+The Technical Services Division within the Department of Physical Planning has the mandate to provide technical guidance and coordination in the preparation, implementation, and monitoring of spatial plans across the country. Spatial planning remains a critical pillar in the realization of Kenya’s national development objectives, including Vision 2030, the Kenya National Spatial Plan (NSP), and the Bottom-Up Economic Transformation Agenda (BETA).
 
 Despite this, there exists a significant information gap regarding the actual status of spatial planning efforts at the county and inter-agency levels. This gap constrains evidence-based decision-making, resource allocation, and the provision of targeted technical support.
 
@@ -96,7 +96,7 @@ The form will be shared with County Directors of Physical Planning and relevant 
 
 # 8. Conclusion
 
-This concept note seeks approval to roll out the Google Form tool for collecting critical data on the status of spatial planning across the country. The initiative will support the Department in discharging its technical and oversight mandate more effectively.
+This concept note seeks approval to roll out the Google Form tool for collecting critical data on the status of spatial planning across the country. The initiative will support the Department in discharging its technical and coordination of county planning mandate more effectively.
 
 ------------------------------------------------------------------------
 
