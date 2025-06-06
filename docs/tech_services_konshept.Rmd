@@ -1,0 +1,110 @@
+---
+output: 
+  pdf_document:
+    latex_engine: xelatex
+    includes:
+      in_header: preamble.tex
+  prettydoc::html_pretty:
+    theme: cayman
+    highlight: github
+fontsize: 11pt
+geometry: margin=1in
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+![](letterhead_resized.png){width=100%}
+
+\begin{center}
+\Large \textbf{Concept Note on the Status of Spatial Planning in Kenya} \\
+\vspace{0.5cm}
+\large Ben Amollo \\
+Assistant Director, Technical Services Division \\
+State Department for Lands and Physical Planning \\
+\small \textbf{Date:} `r format(Sys.Date(), "%B %d, %Y")`
+\end{center}
+
+\vspace{1cm}
+\thispagestyle{firstpage}
+
+\newpage
+
+# 1. Introduction
+
+The Technical Services Division within the Department of Physical Planning has the mandate to provide technical guidance and oversight in the preparation, implementation, and monitoring of spatial plans across the country. Spatial planning remains a critical pillar in the realization of Kenya’s national development objectives, including Vision 2030, the Kenya National Spatial Plan (NSP), and the Bottom-Up Economic Transformation Agenda (BETA).
+
+Despite this, there exists a significant information gap regarding the actual status of spatial planning efforts at the county and inter-agency levels. This gap constrains evidence-based decision-making, resource allocation, and the provision of targeted technical support.
+
+# 2. Problem Statement
+
+There is no centralized or up-to-date repository of information on:
+
+-   The number and status of spatial plans at county and national level.
+-   Staffing and technical capacities within counties.
+-   Financial investments made toward spatial planning.
+-   Tools, equipment, and policy frameworks available to support planning.
+-   Implementation status of County Spatial Plans (CSPs) and other local plans.
+
+Without this data, it is difficult for the Technical Services Division to provide responsive and strategic support to counties and other Ministries, Departments, and Agencies (MDAs).
+
+# 3. Objective
+
+To conduct a comprehensive assessment of the **status of spatial and land use planning** in all counties and select MDAs using a standardized data collection tool. The outcome will inform the deployment of technical services, capacity-building programs, and policy interventions.
+
+# 4. Methodology
+
+Data will be collected using a structured **Google Form** developed to capture:
+
+-   Staffing levels
+-   Types and status of spatial plans
+-   Financial allocations
+-   Tools and infrastructure (e.g., GIS labs, vehicles)
+-   Existence of planning policies and legislation
+
+The form will be shared with County Directors of Physical Planning and relevant officers in national agencies.
+
+### Link to the Data Collection Form:
+
+👉 [**Click here to access the Spatial Planning Status Form**](https://docs.google.com/forms/d/e/YOUR-FORM-ID/viewform)
+
+# 5. Expected Outcomes
+
+-   A national spatial planning status database.
+-   County-level and national reports with key indicators and gaps.
+-   Informed allocation of technical services and support.
+-   Strategic recommendations to enhance spatial planning functions nationwide.
+
+# 6. Justification for Deploying the Tool
+
+-   Enables evidence-based engagement with counties and agencies.
+-   Supports monitoring of implementation of CSPs and other plans.
+-   Helps the Department meet its technical assistance and coordination of counties roles as stipulated in the Constitution of Kenya as well as the Physical and Land Use Planning Act, 2019.
+-   Strengthens intergovernmental coordination in spatial planning.
+
+# 7. Proposed Timeline
+
+| Activity                      | Timeline |
+|-------------------------------|----------|
+| Form Deployment               | Week 1   |
+| Data Collection               | Week 1–3 |
+| Data Analysis and Reporting   | Week 4–5 |
+| Submission of Recommendations | Week 6   |
+
+# 8. Conclusion
+
+This concept note seeks approval to roll out the Google Form tool for collecting critical data on the status of spatial planning across the country. The initiative will support the Department in discharging its technical and oversight mandate more effectively.
+
+------------------------------------------------------------------------
+
+**Prepared by:**
+
+**Ben Amollo**
+
+Assistant Director of Physical Planning
+
+Section Head, Technical Services Division
+
+State Department for Lands and Physical Planning
+
